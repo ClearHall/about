@@ -16,11 +16,15 @@ SkyMobile only needs your Skyward login credentials, you may choose whether or n
 
 SkyMobile is not responsible for leaked information due to modifications of the host operating system or application(s), including jailbreaking.
 
+When you use SkyMobile, you agree to let SkyMobile use your personal login credentials to show your grades and store them upon request. SkyMobile will not track your credentials, all login credentials are only stored locally on your iOS device.
+
 ## Section C: Third Party Services Used by SkyMobile
 The following are services used by SkyMobile to give you the optimal experience. 
 
 - [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Skyward](https://www.skyward.com/privacy-policy)
+
+By using SkyMobile, you agree to these policies and SkyMobile's policies.
 
 ## Section D: Educational Use and Child Privacy
 SkyMobile does not show explicit ads as classified by "NSFW", so it is safe for children and adults to use.
@@ -30,5 +34,9 @@ SkyMobile is tailored toward students and education as it provides a service tha
 ## Section E: Cookies
 Cookies allow SkyMobile to view your grades and store tiny bits of information that allow the app to view your assignments and many other features. These cookies aren't stored permanently and will be removed on exit of the application. SkyMobile does not track user cookies.
 
+By using SkyMobile, you agree to allow the software to store your cookies temporarily. These cookies aren't stored or tracked after you exit the application.
+
 ## Section F: Biometric Authentication
 SkyMobile uses biometric authentication only to secure your login credentials. Unless iOS security is comprimised due to jailbreaking or other modifications to the host operating system or software.
+
+When you use Skymobile's biometric authentication, you agree to let SkyMobile use Touch ID or Face ID to secure your login credentials. These forms of security are not tracked.
