@@ -40,3 +40,5 @@ By using SkyMobile, you agree to allow the software to store your cookies tempor
 SkyMobile uses biometric authentication only to secure your login credentials. Unless iOS security is comprimised due to jailbreaking or other modifications to the host operating system or software.
 
 When you use Skymobile's biometric authentication, you agree to let SkyMobile use Touch ID or Face ID to secure your login credentials. These forms of security are not tracked.
+
+Thank you for using SkyMobile, we hope you enjoy your experience and continue to use SkyMobile.
