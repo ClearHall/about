@@ -16,7 +16,7 @@ SkyMobile only needs your Skyward login credentials, you may choose whether or n
 
 SkyMobile is not responsible for leaked information due to modifications of the host operating system or application(s), including jailbreaking.
 
-When you use SkyMobile, you agree to let SkyMobile use your personal login credentials to show your grades and store them upon request. SkyMobile will not track your credentials, all login credentials are only stored locally on your iOS device.
+When you use SkyMobile, you agree to let SkyMobile use your personal login credentials to show your grades and store them upon request. SkyMobile will not track your credentials, all login credentials are only stored locally on your iOS device upon request.
 
 ## Section C: Third Party Services Used by SkyMobile
 The following are services used by SkyMobile to give you the optimal experience. 
