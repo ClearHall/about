@@ -3,4 +3,4 @@ All of these documents don't really apply unless you are bored and want to read 
 
 These include
 - Privacy Policy
-- Terms of Conditions
+- Terms of Service
