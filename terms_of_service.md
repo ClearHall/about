@@ -21,7 +21,6 @@ When you use SkyMobile, you agree to let SkyMobile use your personal login crede
 ## Section C: Third Party Services Used by SkyMobile
 The following are services used by SkyMobile to give you the optimal experience. 
 
-- [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Skyward](https://www.skyward.com/privacy-policy)
 
 By using SkyMobile, you agree to these policies and SkyMobile's policies.
