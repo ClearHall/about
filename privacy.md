@@ -4,12 +4,7 @@ Hunter Han built the SkyMobile iOS app as an Ad Supported app. This SERVICE is p
 
 # Information Collection and Use
 
-SkyMobile iOS does use third party services that may collect information used to identify you.
 SkyMobile does not use third party services and cannot and will not collect any information to identify.
-
-Link to privacy policy of third party service providers used by the app
-
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 # Log Data
 
