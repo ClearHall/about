@@ -18,18 +18,6 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 # Service Providers
 
-## SkyMobile iOS
-
-I may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-## SkyMobile
-
 SkyMobile does not use third-party ad services. Therefore it will not track any Personal Information or any sort of private information that may affect you in any way.
 
 # Security
@@ -38,18 +26,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 # Links to Other Sites
 
-## SkyMobile iOS
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-## SkyMobile
-
 SkyMobile does not contain links to other sites. Therefore, safety from external sites is guaranteed with SkyMobile.
-
-# Children’s Privacy
-
-The app does not track data recieved by children. Though, Google AdMob may track some data to show more relevant ads on SkyMobile iOS. 
-- [Google AdMob Privacy Policy](https://support.google.com/admob/answer/6128543?hl=en)
 
 # Changes to This Privacy Policy
 
